@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a Takodachi](https://pbs.twimg.com/media/E45gv3wVUAADYlU?format=jpg&name=medium)
